@@ -6,10 +6,10 @@ Here's a repo of the code I wrote for CS50's Introduction to Articial Intelligen
 ## Contents
 | Week | Link (s) |
 | ----------- | ----------- |
-| [0](https://cs50.harvard.edu/ai/2024/projects/0/) [Search] | Title |
-| [1](https://cs50.harvard.edu/ai/2024/projects/1/) [Knowledge] | Title |
-| [2](https://cs50.harvard.edu/ai/2024/projects/2/) [Uncertainty] | Title |
-| [3](https://cs50.harvard.edu/ai/2024/projects/3/) [Optimisation] | Title |
-| [4](https://cs50.harvard.edu/ai/2024/projects/4/) [Learning] | Title |
-| [5](https://cs50.harvard.edu/ai/2024/projects/5/) [Neural Networks] | Title |
-| [6](https://cs50.harvard.edu/ai/2024/projects/6/) [Language] | Title |
+| [0](https://cs50.harvard.edu/ai/2024/projects/0/) [Search] | [tictactoe](week0/tictactoe), [degrees](week0/degrees) |
+| [1](https://cs50.harvard.edu/ai/2024/projects/1/) [Knowledge] | [knights](week1/knights), [minesweeper](week1/minesweeper) |
+| [2](https://cs50.harvard.edu/ai/2024/projects/2/) [Uncertainty] | [heredity](week2/heredity), [pagerank](week2/pagerank) |
+| [3](https://cs50.harvard.edu/ai/2024/projects/3/) [Optimisation] | [crossword](week3/crossword) |
+| [4](https://cs50.harvard.edu/ai/2024/projects/4/) [Learning] | [nim](/week4/nim), [shopping](/week4/shopping) |
+| [5](https://cs50.harvard.edu/ai/2024/projects/5/) [Neural Networks] | [traffic](/week5/traffic) |
+| [6](https://cs50.harvard.edu/ai/2024/projects/6/) [Language] | [parser](/week6/parser), [attention](/week6/attention) |
